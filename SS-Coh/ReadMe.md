@@ -21,6 +21,6 @@ In the below we provide some results of SS-Coh model when we run it on the Anest
 
 
 #### Figure 2 - Goodness of Fit Analysis 
-![](imgsgoodness_fit.jpg)
+![](imgs/goodness_fit.jpg)
 
-**Figure 4. Goodness-of-fit analyses and maximum likelihood (ML) curve (A)** Whitening transformation in the anestheisa shown for a pair of channels given initial settings of model parameters. **(B)**  Whitening transformation shown for the pair of channles shown in (A) with trained model. It is clear that the model has captured dynamics present in data. (C) ML curve – or maximum of Q function – for different iterations of EM. The curve grows per iteration getting to a local maximum.
+** Goodness-of-fit analyses and maximum likelihood (ML) curve (A)** Whitening transformation in the anestheisa shown for a pair of channels given initial settings of model parameters. **(B)**  Whitening transformation shown for the pair of channles shown in (A) with trained model. It is clear that the model has captured dynamics present in data. (C) ML curve – or maximum of Q function – for different iterations of EM. The curve grows per iteration getting to a local maximum.
