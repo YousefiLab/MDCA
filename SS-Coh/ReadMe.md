@@ -12,5 +12,15 @@ The complete description of the experimental protocol can be found in [Purdon et
 Using this dataset, we will study the causal relationship between propofol blood concentration, level of consciousness, and spatio-temporal patterns of functional connectivity. Spectrograms, sliding window GCoh, and LDCM will be applied to identify network modes and their changes associated with loss of consciousness.
 
 ## Results
+In the below we provide some results of SS-Coh model when we run it on the Anesthesia data set. 
 
-![ reza](imgs/fig1.jpg)
+### Figure 1 - Estimation of SS-Coh 
+![ ](imgs/sscoh.jpg)
+
+** SS-GCoh analysis in Alpha band for anesthesia EEG data and its correspondence with empirical results. A)** Inferred unconsciousness state estimation over 2 hours of anesthesia. The latent state represents the unconsciousness level; the state transition is modeled by a random-walk model. **B)** Scalp heat-map of the dominant eigenmodes for 3 different time points during the experiment. The result using SS-GCoh and empirical measures are similar to each other. **C)** Empirical GCoh and inferred GCoh using SS-GCoh. Not only the inferred coherence matches the empirical one; it attains it at a finer temporal resolution. With SS-GCoh, we also derive higher-order statistics of the coherence such as confidence interval. 
+
+
+#### Figure 2 - Goodness of Fit Analysis 
+![](imgsgoodness_fit.jpg)
+
+**Figure 4. Goodness-of-fit analyses and maximum likelihood (ML) curve (A)** Whitening transformation in the anestheisa shown for a pair of channels given initial settings of model parameters. **(B)**  Whitening transformation shown for the pair of channles shown in (A) with trained model. It is clear that the model has captured dynamics present in data. (C) ML curve – or maximum of Q function – for different iterations of EM. The curve grows per iteration getting to a local maximum.
