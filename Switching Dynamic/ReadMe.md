@@ -17,5 +17,5 @@ This analysis is utilizing number of clusters based on dominant eigenvectors of 
 
 
 ## Implementation 
-To get similar results, you can run provided code. After running the main code, you will obtain the same result that we provide in figure 1 and figure 2. 
+To get similar results, you can run provided code. After running the main code, you will obtain the same result that we provide in figure 1. 
 
