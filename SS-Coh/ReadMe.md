@@ -13,4 +13,4 @@ Using this dataset, we will study the causal relationship between propofol blood
 
 ## Results
 
-![ **Figure 1. SS-GCoh analysis in Alpha band for anesthesia EEG data and its correspondence with empirical results. A)** Inferred unconsciousness state estimation over 2 hours of anesthesia. The latent state represents the unconsciousness level; the state transition is modeled by a random-walk model. **B)** Scalp heat-map of the dominant eigenmodes for 3 different time points during the experiment. The result using SS-GCoh and empirical measures are similar to each other. **C)** Empirical GCoh and inferred GCoh using SS-GCoh. Not only the inferred coherence matches the empirical one; it attains it at a finer temporal resolution. With SS-GCoh, we also derive higher-order statistics of the coherence such as confidence interval.](imgs/fig1.jpg)
+![ reza](imgs/fig1.jpg)
