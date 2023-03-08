@@ -1,7 +1,7 @@
-# SS-Coh 
+# State Space Coherence
 
 In State Space Coherence (SS-Coh) project, we provide mor robust algorithm for estimating Global Coherence (GCoh). 
-To understand some aspects of SS-Coh modelling, you can read [EMBC-2019](EEG%20data%20from%20human%20patients%20under%20general%20anesthesi) and [bioRxiv-2020](https://www.biorxiv.org/content/10.1101/2020.07.13.199034v1.abstract). In the RO1 proposal, we provide more complete modelling of SS-Coh. 
+To understand some aspects of SS-Coh modelling, you can read [EMBC-2019](https://ieeexplore.ieee.org/abstract/document/8856634) and [bioRxiv-2020](https://www.biorxiv.org/content/10.1101/2020.07.13.199034v1.abstract). In the RO1 proposal, we provide more complete modelling of SS-Coh. 
 
 
 ## Data
