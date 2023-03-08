@@ -1,7 +1,7 @@
 
 # Expriment Description
 Large scale recordings of brain-wide activity in awake mice during spontaneous behavior are publicly available to allow studies on how multidimensional behaviors are represented in distributed neural data. 
-Using the mice dataset, we are interested in studying how coherence analysis will reveal interactions across neural nodes and their connections to behavior. To study the data, we will use empirical and parametric point-process coherence; we will also utilize mixed-data coherence analysis to study neural and behavioral data in tandem
+Using the mice dataset, we are interested in studying how coherence analysis will reveal interactions across neural nodes and their connections to behavior. To study the data, we will use empirical and parametric point-process coherence; we will also utilize mixed-data coherence analysis to study neural and behavioral data in tandem.
 
 ## Data
 
