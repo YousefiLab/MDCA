@@ -1,6 +1,6 @@
 # MDCA 
 In the MDCA project, we provide different methods that we develop to characterize and analyize brain signals. In different project, we proposed differnet methods of brain signal analysis. We applied our methodologies on real data and parts of results are provided here. 
-In the below, a short description of each project is presented. 
+In the below, a short description foreach project is presented. 
 
 
 ## State Space Coherence 
