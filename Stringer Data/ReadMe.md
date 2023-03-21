@@ -6,6 +6,7 @@ Using the mice dataset, we are interested in studying how coherence analysis wil
 ## Data
 
  Neural recordings of more than 3000 neurons are being recorded using eight-probe Neuropixels in awake mice (n=3), covering frontal, sensorimotor, retro-splenial cortex, hippocampus, striatum, thalamus, and mid-brain. The complete description of the experiment protocol can be found in [Stringer et. al (2019)](https://www.nature.com/articles/s41586-019-1346-5). The analysis of this data revealed a multi-dimensional and brain-wide representation of the behavior. The result also shows despite behavior and neural activity contained fast-time scale fluctuations on the order of 200 msec, they are related to each other on a time scale of 1 second.
+Data set is publicly available in the following link: [download data](https://figshare.com/articles/dataset/LFP_data_for_8-Neuropixels_recordings_from_Stringer_et_al_2019_Science/8784311)
 
 ## Results
  Figure 1 shows elevated synchrony in the high-theta band as the mice start moving whiskers and eye gaze direction in response to stimuli
