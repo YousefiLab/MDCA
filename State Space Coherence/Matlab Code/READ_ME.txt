@@ -1,7 +1,8 @@
 please run the below m file:
 MAIN_CODE_10_2_1d_anesthesia.m
 
-Updating parameter section is stil under the progress. 
+-----------------------
+Updating parameter is stil under the progress. 
 We have 4 different parameters that we try to update them: 
 1- sigma    >> variance of state  -x- noise
 2- mu       >> ergodic mean of observation -y-
