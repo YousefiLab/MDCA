@@ -1,12 +1,16 @@
 please run the below m file:
 MAIN_CODE_10_2_1d_anesthesia.m
 
-In paramter update, I'm working on L update and is not complete yet. 
-Updating of other paramters works well. 
+Updating parameter section is stil under the progress. 
+We have 4 different parameters that we try to update them: 
+1- sigma    >> variance of state  -x- noise
+2- mu       >> ergodic mean of observation -y-
+3- W        >> Weight matrix
+4- L        >> Eigenvector matrix 
+Updating parameters for sigma, mu, and W work well but we are stil working on updating L parameter. 
+In the code, you can choose which parameters would you to be updated. 
 
-*******************
-This code is based on SSCoh_stroop_10_2 that works for nips paper
-
-this code works well to estimate SSCoh for 1d data> real data anethesia
+for more information about model's parameter, please see the paper at the following link 
+https://www.biorxiv.org/content/10.1101/2020.07.13.199034v1.abstract
 
 
